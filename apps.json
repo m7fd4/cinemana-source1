@@ -1,6 +1,6 @@
 {
-  "name": "Cinemana Source",
-  "identifier": "com.custom.cinemanasource",
+  "name": "AL-janabi source",
+  "identifier": "com.custom.source",
   "apps": [
     {
       "name": "Cinemana",
@@ -13,6 +13,19 @@
       "tintColor": "#FF0000",
       "localizedDescription": "تطبيق سينمانا يوفر مكتبة ضخمة من الأفلام والمسلسلات العربية والعالمية، مع واجهة سهلة الاستخدام وتحديثات يومية.",
       "size": 15000000,
+      "screenshotURLs": []
+    },
+    {
+      "name": "Yacine",
+      "bundleIdentifier": "com.yacine.app",
+      "developerName": "Yacine Dev",
+      "subtitle": "تطبيق Yacine لمتابعة القنوات الرياضية",
+      "version": "1.0.1",
+      "downloadURL": "https://top4top.me/download/D2M4AdlCXRKNMTE/E1x3AdeYDmyk6/Yacine_1.0.1_1725553892.ipa",
+      "iconURL": "https://example.com/yacine-icon.png",
+      "tintColor": "#0000FF",
+      "localizedDescription": "تطبيق Yacine يقدم بث مباشر للقنوات الرياضية بجودة عالية.",
+      "size": 20000000,
       "screenshotURLs": []
     }
   ]
