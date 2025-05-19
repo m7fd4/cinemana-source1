@@ -1,0 +1,19 @@
+{
+  "name": "Cinemana Source",
+  "identifier": "com.custom.cinemanasource",
+  "apps": [
+    {
+      "name": "Cinemana",
+      "bundleIdentifier": "com.shabakaty.cinemana",
+      "developerName": "Shabakaty",
+      "subtitle": "منصة لمشاهدة الأفلام والمسلسلات",
+      "version": "3.4.2",
+      "downloadURL": "https://top4top.me/download/Bu1UxhG9xqnjlq6/RMKGJRNq1G1oP/Cinemana_3.4.2_1725703832.ipa",
+      "iconURL": "https://www2.0zz0.com/2025/05/19/00/838197649.png",
+      "tintColor": "#FF0000",
+      "localizedDescription": "تطبيق سينمانا يوفر مكتبة ضخمة من الأفلام والمسلسلات العربية والعالمية، مع واجهة سهلة الاستخدام وتحديثات يومية.",
+      "size": 15000000,
+      "screenshotURLs": []
+    }
+  ]
+}
