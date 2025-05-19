@@ -27,6 +27,19 @@
       "localizedDescription": "تطبيق Yacine يقدم بث مباشر للقنوات الرياضية بجودة عالية.",
       "size": 20000000,
       "screenshotURLs": []
+    },
+    {
+      "name": "Regram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "اينشتاين الجنابي",
+      "subtitle": "تواصل اجتماعي",
+      "version": "1.b",
+      "downloadURL": "https://www.1024tera.com/wap/share/filelist?surl=BCn126X76VpDO-2bVkjsqA&download=1&fid=409831255659548&shareid=6599020983&sign=d18011311b9ac9b3d23ac99c28265dd0cb6c3c9e&timestamp=1747623027&uk=4399013857461&primaryid=6599020983",
+      "iconURL": "https://www2.0zz0.com/2025/05/19/02/219474776.jpeg",
+      "tintColor": "#008000",
+      "localizedDescription": "تطبيق تواصل اجتماعي.",
+      "size": 10000000,
+      "screenshotURLs": []
     }
   ]
 }
